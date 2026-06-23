@@ -1,0 +1,25 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore text files
+*.txt
+
+# Ignore a specific file
+secret.txt
+
+# Ignore folders
+bin/
+out/
+build/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore IntelliJ IDEA settings
+.idea/
+
+# Ignore all PDFs
+*.pdf
